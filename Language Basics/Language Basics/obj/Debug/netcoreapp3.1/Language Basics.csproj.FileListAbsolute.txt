@@ -1,0 +1,14 @@
+E:\c# projects\c-sharp-language-basics\Language Basics\Language Basics\bin\Debug\netcoreapp3.1\Language Basics.exe
+E:\c# projects\c-sharp-language-basics\Language Basics\Language Basics\bin\Debug\netcoreapp3.1\Language Basics.deps.json
+E:\c# projects\c-sharp-language-basics\Language Basics\Language Basics\bin\Debug\netcoreapp3.1\Language Basics.runtimeconfig.json
+E:\c# projects\c-sharp-language-basics\Language Basics\Language Basics\bin\Debug\netcoreapp3.1\Language Basics.runtimeconfig.dev.json
+E:\c# projects\c-sharp-language-basics\Language Basics\Language Basics\bin\Debug\netcoreapp3.1\Language Basics.dll
+E:\c# projects\c-sharp-language-basics\Language Basics\Language Basics\bin\Debug\netcoreapp3.1\Language Basics.pdb
+E:\c# projects\c-sharp-language-basics\Language Basics\Language Basics\obj\Debug\netcoreapp3.1\Language Basics.csproj.AssemblyReference.cache
+E:\c# projects\c-sharp-language-basics\Language Basics\Language Basics\obj\Debug\netcoreapp3.1\Language Basics.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# projects\c-sharp-language-basics\Language Basics\Language Basics\obj\Debug\netcoreapp3.1\Language Basics.AssemblyInfoInputs.cache
+E:\c# projects\c-sharp-language-basics\Language Basics\Language Basics\obj\Debug\netcoreapp3.1\Language Basics.AssemblyInfo.cs
+E:\c# projects\c-sharp-language-basics\Language Basics\Language Basics\obj\Debug\netcoreapp3.1\Language Basics.csproj.CoreCompileInputs.cache
+E:\c# projects\c-sharp-language-basics\Language Basics\Language Basics\obj\Debug\netcoreapp3.1\Language Basics.dll
+E:\c# projects\c-sharp-language-basics\Language Basics\Language Basics\obj\Debug\netcoreapp3.1\Language Basics.pdb
+E:\c# projects\c-sharp-language-basics\Language Basics\Language Basics\obj\Debug\netcoreapp3.1\Language Basics.genruntimeconfig.cache
