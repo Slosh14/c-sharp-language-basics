@@ -11,6 +11,8 @@ namespace Language_Basics
 
             Console.WriteLine("Hello World!");
             Console.WriteLine("My name is " + name + " and my age is " + age);
+            Console.WriteLine("Hello World".Contains("Hello"));
+            Console.WriteLine("Hello World".IndexOf("World"));
 
             Console.ReadLine();
         }
