@@ -13,6 +13,7 @@ namespace Language_Basics
             Console.WriteLine("My name is " + name + " and my age is " + age);
             Console.WriteLine("Hello World".Contains("Hello"));
             Console.WriteLine("Hello World".IndexOf("World"));
+            Console.WriteLine(Math.Pow(3,2));
 
             Console.ReadLine();
         }
