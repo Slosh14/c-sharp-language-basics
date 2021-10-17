@@ -21,16 +21,51 @@ namespace Language_Basics
             int[] numbers = { 1, 2, 3 };
             Console.WriteLine(numbers[2]);
 
-            //useing the method
-            SayHi();
+            //using the method
+            SayHi("Mike");
+            //write method output
+            Console.WriteLine(Addition(5));
+
+            //using the switch statement
+            Console.WriteLine(GetDay(1));
 
             Console.ReadLine();
         }
 
         //void is return type use int etc to return an int
-        static void SayHi() 
+        //parameter inside the method
+        static void SayHi(string name) 
         {
-            Console.WriteLine("Hello USer");
+            Console.WriteLine("Hello User " + name);
+        }
+
+        //return an int
+        static int Addition(int num)
+        {
+            int result = 5 + num;
+            return result;
+        }
+
+        static string GetDay(int dayNum)
+        {
+            string dayName;
+
+            switch(dayNum)//value to be checked
+            {
+                case 0:
+                    dayName = "Sunday";
+                    break;
+                case 1:
+                    dayName = "Monday";
+                    break;
+                case 2:
+                    dayName = "Tuesday";
+                    break;
+                default:
+                    dayName = "Invalid Day Name";
+                    break;
+            }return dayName;
+
         }
     }
-}
+} 
