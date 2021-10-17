@@ -8,7 +8,14 @@ namespace Language_Basics
         {
             int age = 30;
             string name = "James";
+            //2d array
+            int[,] numberGrid = {
+                {1, 2 },
+                {3, 4 },
+                {5, 6 }
+            };
 
+            Console.WriteLine(numberGrid[1,1]);
             Console.WriteLine("Hello World!");
             Console.WriteLine("My name is " + name + " and my age is " + age);
             Console.WriteLine("Hello World".Contains("Hello"));
@@ -28,6 +35,12 @@ namespace Language_Basics
 
             //using the switch statement
             Console.WriteLine(GetDay(1));
+
+            //forloop
+            for(int i =1; i<=5; i++)
+            {
+                Console.WriteLine(i);
+            }
 
             Console.ReadLine();
         }
